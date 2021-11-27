@@ -1,0 +1,111 @@
+#product
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+#product .card
+{
+    border: 1px solid rgb(241, 230, 230);
+    width: 30%;
+    box-shadow:  0 0 2px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    transition: 0.5s linear; 
+}
+
+#product .card:hover
+{
+    position: relative;
+    top:-10px;
+    border: 2px solid crimson;
+    
+}
+
+#product .card img{    
+object-fit: cover;
+width: 170px;
+height: 270px;
+margin-bottom: 10px;
+}
+
+#product .card h3 a
+{
+   text-decoration: none;
+   color:#333;
+   font-size: 20px;
+}
+
+#product .card h3 a:hover{
+   color: crimson;
+}
+
+
+#product .card span{
+    color: crimson;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#product .card button 
+{
+    border: none;
+    padding: 10px;
+    outline: none;
+    background-color: #333;
+    color: whitesmoke;
+    width: 50%;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+    text-align: center
+}
+
+#product .card button:hover{
+    background-color: crimson;
+    color: #000;
+    cursor: pointer;
+}
+
+@media(max-width:500px)
+{
+    #product .card
+   {
+    
+    width: 100%;
+   
+   }
+}
+
+
+@media (min-width: 600px) {
+    #product .card
+   {
+    
+    width: 70%;
+   
+   }
+  }
+  /*meduim*/
+  @media (min-width: 900px) {
+    #product .card
+   {
+    
+    width: 50%;
+   
+   }
+  }
+  /*large*/
+  @media (min-width: 1200px) {
+    #product .card
+   {
+    
+    width: 30%;
+   
+   }
+  }
