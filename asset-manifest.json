@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/itraxReactApp/static/css/main.3a64d7c0.chunk.css",
+    "main.js": "/itraxReactApp/static/js/main.5a35b2d7.chunk.js",
+    "main.js.map": "/itraxReactApp/static/js/main.5a35b2d7.chunk.js.map",
+    "runtime-main.js": "/itraxReactApp/static/js/runtime-main.fdf41cbb.js",
+    "runtime-main.js.map": "/itraxReactApp/static/js/runtime-main.fdf41cbb.js.map",
+    "static/js/2.26b52e30.chunk.js": "/itraxReactApp/static/js/2.26b52e30.chunk.js",
+    "static/js/2.26b52e30.chunk.js.map": "/itraxReactApp/static/js/2.26b52e30.chunk.js.map",
+    "static/js/3.378d3c3e.chunk.js": "/itraxReactApp/static/js/3.378d3c3e.chunk.js",
+    "static/js/3.378d3c3e.chunk.js.map": "/itraxReactApp/static/js/3.378d3c3e.chunk.js.map",
+    "index.html": "/itraxReactApp/index.html",
+    "static/css/main.3a64d7c0.chunk.css.map": "/itraxReactApp/static/css/main.3a64d7c0.chunk.css.map",
+    "static/js/2.26b52e30.chunk.js.LICENSE.txt": "/itraxReactApp/static/js/2.26b52e30.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/itraxReactApp/static/media/bars-solid.e8db7520.svg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/itraxReactApp/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/itraxReactApp/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf41cbb.js",
+    "static/js/2.26b52e30.chunk.js",
+    "static/css/main.3a64d7c0.chunk.css",
+    "static/js/main.5a35b2d7.chunk.js"
+  ]
+}
